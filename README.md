@@ -1,2 +1,1 @@
-# trex
-proyect class 
+# C13_Trex_3.5
